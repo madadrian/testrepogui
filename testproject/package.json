@@ -1,0 +1,14 @@
+{
+    "name": "test",
+    "version": "1.0.0",
+    "description": "A simple test",
+    "main": "./test.js",
+    "dependencies": {
+        "body-parser": "~1.18.2",
+        "express": "~4.15.5",
+        "mongoose": "~4.11.13",
+        "mssql": "^4.1.0"
+    },
+    "author": "Madritsch Adrian",
+    "license": "ISC"
+}
